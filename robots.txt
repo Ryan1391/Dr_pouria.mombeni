@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ryan1391.github.io/Dr_pouria.mombeni/sitemap.xml
